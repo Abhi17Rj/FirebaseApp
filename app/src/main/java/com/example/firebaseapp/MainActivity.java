@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
     Button btn;
     TextView tv;
     String s1, s2;
-
+    // demo comment
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
